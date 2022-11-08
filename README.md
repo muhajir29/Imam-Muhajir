@@ -34,7 +34,7 @@
 </a>
   h
   <a href="https://www.youtube.com/channel/UC3abfTxNmYKy0U5HfOSL9Zw">
-  <img alt="YouTube" src="https://img.shields.io/badge/-YOU%20TUBE-red"/>
+  <img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-D14836?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
  
 </p>
