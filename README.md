@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/imammuhajir92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imammuhajir92" height="30" width="40" /></a>
 <a href="https://kaggle.com/imammuhajir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imammuhajir" height="30" width="40" /></a>
 <a href="https://medium.com/@muhajir-29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhajir-29" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/halotech academy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halotech academy" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/halotech academy](https://www.youtube.com/channel/UC3abfTxNmYKy0U5HfOSL9Zw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halotech academy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imammuhajir92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imammuhajir92" height="30" width="40" /></a>
 </p>
 
