@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Data Pipeline**
 
-- 📫 How to reach me ** in my email imammuhajir92@gmail.com **
+- 📫 How to reach me **in my email imammuhajir92@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OLjx9zS8Au_UgbuOJ4cxThucXGo65uST/view?usp=share_link](https://drive.google.com/file/d/1OLjx9zS8Au_UgbuOJ4cxThucXGo65uST/view?usp=share_link)
 
@@ -32,7 +32,7 @@
 <a href="https://www.hackerrank.com/imammuhajir92">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
-  h
+ 
   <a href="https://www.youtube.com/channel/UC3abfTxNmYKy0U5HfOSL9Zw">
   <img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-D14836?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
