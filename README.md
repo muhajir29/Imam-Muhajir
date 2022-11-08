@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect and Learn with me in :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imammuhajir92/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,8 +32,11 @@
 <a href="https://www.hackerrank.com/imammuhajir92">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/channel/UC3abfTxNmYKy0U5HfOSL9Zw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halotech academy" height="30" width="40" />
-  </a>
+  h
+  <a href="https://www.youtube.com/channel/UC3abfTxNmYKy0U5HfOSL9Zw">
+  <img alt="YouTube" src="ttps://img.shields.io/badge/-YOU%20TUBE-red"/>
+</a>
+ 
 </p>
   
   
