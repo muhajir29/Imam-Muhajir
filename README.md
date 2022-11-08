@@ -32,8 +32,8 @@
 <a href="https://www.hackerrank.com/imammuhajir92">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
-  
-<a href="https://www.youtube.com/channel/UC3abfTxNmYKy0U5HfOSL9Zw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halotech academy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3abfTxNmYKy0U5HfOSL9Zw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="halotech academy" height="30" width="40" />
+  </a>
 </p>
   
   
