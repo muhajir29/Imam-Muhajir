@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imam Muhajir</h1>
-<h3 align="center">Interested and share about in Data Scientist And Data Engineer in Github, Medium and YouTube.</h3>
+<h3 align="center">Interested and share about Data Scientist And Data Engineer in Github, Medium and YouTube.</h3>
 
 - 🔭 I’m currently working on **Data Engineer At Mars Digital**
 
