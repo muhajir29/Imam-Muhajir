@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **in my email imammuhajir92@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OLjx9zS8Au_UgbuOJ4cxThucXGo65uST/view?usp=share_link](https://drive.google.com/file/d/1OLjx9zS8Au_UgbuOJ4cxThucXGo65uST/view?usp=share_link)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
